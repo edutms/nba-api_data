@@ -5,4 +5,6 @@ To do so, we will get the data from the nba_api package for Python, then retriev
 
 Later, we will upload the extracted Dataframes to a MySQL database using the SQLAlchemy library, which allows us to import straight from Pandas.
 
+All packages and libraries needed are listed in the requirements.txt file, and the process is listed in the .ipynb file of this repository.
+
 
